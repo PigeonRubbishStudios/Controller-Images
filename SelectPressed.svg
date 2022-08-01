@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.758333mm"
+   height="13.758333mm"
+   viewBox="0 0 13.758333 13.758333"
+   version="1.1"
+   id="svg2317"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="SelectPressed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2319"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-863.29374"
+     inkscape:cy="-190.25757"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2314" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.12507,-198.25219)">
+    <g
+       id="g5521"
+       inkscape:label="Button Back Active"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.3757609,92.101354)"
+       style="display:inline">
+      <circle
+         id="ButtonBack"
+         class="st0"
+         cx="451.20001"
+         cy="427.20001"
+         r="24"
+         inkscape:label="ButtonBack"
+         style="display:inline;fill:#80ff00;fill-opacity:0.843137;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181" />
+      <g
+         id="g5515"
+         inkscape:label="Icon">
+        <rect
+           id="rect1232"
+           x="448.10001"
+           y="424.5"
+           class="st4"
+           width="16.299999"
+           height="13.3"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181"
+           inkscape:label="Front Rectangle" />
+        <path
+           id="rect1232-3"
+           sodipodi:nodetypes="ccccc"
+           class="st4"
+           d="m 442.9,429.6 h -4.2 V 416.3 H 455 v 3.7"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181"
+           inkscape:label="Back Rectangle" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15.040105mm"
+   height="16.387383mm"
+   viewBox="0 0 15.040105 16.387383"
+   version="1.1"
+   id="svg3035"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="DPadPressed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3037"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-206.90511"
+     inkscape:cy="90.372348"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3032" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(67.926836,-125.20461)">
+    <path
+       id="D0"
+       inkscape:label="D-Pad Active"
+       sodipodi:nodetypes="czzzcc"
+       class="st5"
+       d="m -53.498215,139.33336 c 0,0 0.185208,-11.56229 0,-12.54125 -0.185209,-0.97896 -4.550834,-1.05833 -6.879167,-1.05833 -2.328333,0 -6.561667,0.15875 -6.879167,1.05833 -0.3175,0.89958 0,12.54125 0,12.54125 3.783542,2.30187 9.974792,2.24896 13.758334,0 z"
+       style="display:inline;fill:#80ff00;fill-opacity:0.843137;stroke:#ffffff;stroke-width:1.05833;stroke-linejoin:bevel;stroke-miterlimit:15.1181" />
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="17.991667mm"
+   height="17.991667mm"
+   viewBox="0 0 17.991667 17.991667"
+   version="1.1"
+   id="svg1957"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="XPressed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1959"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-799.08181"
+     inkscape:cy="777.67783"
+     inkscape:window-width="1440"
+     inkscape:window-height="767"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1954" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-89.165188,56.817866)">
+    <g
+       id="g5003"
+       inkscape:label="Button X Active"
+       style="display:inline"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.105738,-161.80447)">
+      <path
+         id="path4999"
+         class="st0"
+         inkscape:label="ButtonX"
+         d="m 704.00036,398.79977 a 32,32 0 0 0 -32,32 32,32 0 0 0 32,32 32,32 0 0 0 32,-32 32,32 0 0 0 -32,-32 z"
+         style="fill:#80ff00;fill-opacity:0.843137;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181" />
+      <path
+         class="st7"
+         d="m 685.2,451 14.4,-21.9 -13,-20.1 h 9.9 l 8.4,13.5 8.2,-13.5 h 9.8 l -13.1,20.4 14.4,21.6 H 714 l -9.3,-14.5 -9.3,14.5 z"
+         id="path5001"
+         style="display:inline;fill:#ffffff"
+         inkscape:label="X" />
+    </g>
+  </g>
+</svg>
