@@ -1,0 +1,157 @@
+.xbox.white {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/Body.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.xbox .trigger {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/TriggerPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.xbox .trigger.left {
+    float: unset;
+    position: absolute;
+    left: 9px;
+}
+
+.xbox .trigger.right {
+    float: unset;
+    position: absolute;
+    right: 9px;
+}
+
+.xbox .bumpers {
+    top: unset;
+    left: unset;
+}
+
+.xbox .bumper {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/BumperPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 133px;
+    height: inherit;
+}
+
+.xbox .bumper.left {
+    float: unset;
+    position: absolute;
+    left: 130px;
+    top: 61px;
+}
+
+.xbox .bumper.right {
+    float: unset;
+    position: absolute;
+    left: 488px;
+    top: 61px;
+}
+
+.xbox .sticks {
+    position: unset;
+}
+
+.xbox .stick {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/Sticks.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xbox .stick.pressed {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/StickPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xbox .stick.left {
+    position: absolute;
+    top: 165px;
+    left: 151px;
+}
+
+.xbox .stick.right {
+    position: absolute;
+    top: 315px;
+    left: 427px;
+}
+
+.xbox .a,
+.xbox .b,
+.xbox .x,
+.xbox .y {
+    display: none;
+}
+
+.xbox .a.pressed {
+    display: unset;
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/APressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 50px;
+    left: 61px;
+}
+
+.xbox .b.pressed {
+    display: unset;
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/BPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: unset;
+    bottom: 104px;
+    left: 112px;
+}
+
+.xbox .x.pressed {
+    display: unset;
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/XPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: unset;
+    bottom: 104px;
+    left: 10px;
+}
+
+.xbox .y.pressed {
+    display: unset;
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/YPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: unset;
+    bottom: 155px;
+    left: 61px;
+}
+
+.xbox .arrows {
+    position: unset;
+}
+
+.xbox .back {
+    background: url(https://raw.githubusercontent.com/PigeonRubbishStudios/Controller-Images/main/SelectPressed.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: none;
+    opacity: 1;
+    width: 39px;
+    height: 39px;
+    float: unset;
+    position: absolute;
+    top: 200px;
+    left: 299px;
+}
+
+.xbox .back.pressed {
+    display: unset;
+}
+
+div.quadrant.p0 {
+    display: none;
+}
